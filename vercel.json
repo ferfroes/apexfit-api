@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/plano.js": {
+      "maxDuration": 60
+    }
+  }
+}

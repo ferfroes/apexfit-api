@@ -1,0 +1,5 @@
+{
+  "name": "apexfit-api",
+  "version": "1.0.0",
+  "description": "API proxy para APEX.FIT — resolve CORS da Anthropic API"
+}
